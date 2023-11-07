@@ -14,7 +14,8 @@
     "react-slick": "^0.29.0",
     "styled-components": "^6.1.0",
     "typescript": "^5.2.2",
-    "web-vitals": "^3.5.0"
+    "web-vitals": "^3.5.0",
+    "homepage" : "https://ppbobr.github.io/barhartt"
   },
   "scripts": {
     "start": "react-scripts start",
