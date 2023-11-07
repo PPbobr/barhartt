@@ -9,15 +9,15 @@ class Carousel extends React.Component {
     render() {
         const settings = {
             infinite: true,
-            slidesToShow: 2, // Відображати 3 слайди
+            slidesToShow: 2,
             slidesToScroll: 1,
             speed: 500,
             dots: false,
             arrows: false,
-            autoplay: true, // Автоматичне прокручування
-            autoplaySpeed: 6000, // Інтервал часу у мілісекундах (6 секунд)
-            centerMode: true, // Включити центральний режим
-            centerPadding: 0, // Встановіть відступ центру, за необхідності
+            autoplay: true,
+            autoplaySpeed: 6000,
+            centerMode: true,
+            centerPadding: 0,
         };
 
         const sliderStyle = {
