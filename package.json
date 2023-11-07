@@ -15,7 +15,7 @@
     "styled-components": "^6.1.0",
     "typescript": "^5.2.2",
     "web-vitals": "^3.5.0",
-    "homepage" : "https://ppbobr.github.io/barhartt"
+    "homepage": "https://ppbobr.github.io/barhartt/"
   },
   "scripts": {
     "start": "react-scripts start",
